@@ -43,6 +43,13 @@ header{
 	  font-weight:900;
 	  color:rgb(0,255,0);
 }
+.price{
+	font-family:;
+	fonr-size:auto;
+	font-weight:700;
+	color:rgb(255,0,30);
+	
+}
 
 section{
 	margin:0px;
