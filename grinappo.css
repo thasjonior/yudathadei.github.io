@@ -67,7 +67,7 @@ section .options{
 	top: 10px;
 }
 section .products{
-	background-color:;
+	
 	padding:0;
 	grid-column:2;
 	grid-row:2/3;
@@ -118,10 +118,10 @@ section .footer{
 	height:100%;
 }
 .laptop{
-	background-color:aqua;
+	background-color:none;
 }
 .phone{
-	background-color:red;
+	background-color:none;
 }
 .phone img{
 	width:100%;
